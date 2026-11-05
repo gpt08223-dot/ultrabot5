@@ -102,7 +102,7 @@ BOT_TEXT = (
 
 KEYBOARD = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text="💬 Написать в WhatsApp", url="https://wa.me/79940602988")],
-    [InlineKeyboardButton(text="🎮 Написать в Discord", url="https://discord.com/users/skupt55")],
+    [InlineKeyboardButton(text="🎮 Написать в Discord", url="https://discord.com/users/skup55")],
     [InlineKeyboardButton(text="▶️ YouTube (КЛИКНИ И УДОСТОВЕРЬСЯ САМ)", url="https://www.youtube.com/@SamperLife/featured")],
     [InlineKeyboardButton(text="🎵 TikTok (КЛИКНИ И УДОСТОВЕРЬСЯ САМ)", url="https://www.tiktok.com/@skupkapuskinskihcart")]
 ])
